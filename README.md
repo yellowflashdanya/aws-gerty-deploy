@@ -47,9 +47,9 @@ The script will automatically set up SSL using Certbot for the provided domains.
 
 After successfully running the script, the website will be available at the specified domain. You can check the status of the web server with the following command:
 
-    ```bash
-    sudo systemctl status nginx
-    ```
+```bash
+sudo systemctl status nginx
+```
 
 ## Technical Details
 
